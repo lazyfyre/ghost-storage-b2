@@ -28,18 +28,18 @@
   },
   "homepage": "https://github.com/zaxbux/ghost-storage-b2#readme",
   "devDependencies": {
-    "@babel/cli": "^7.13",
-    "@babel/core": "^7.13",
-    "@babel/preset-env": "^7.13",
+    "@babel/cli": "^7.21",
+    "@babel/core": "^7.21",
+    "@babel/preset-env": "^7.21",
     "babel-plugin-add-module-exports": "1.0.4",
-    "chai": "^4.3.4",
-    "debug": "4.3.1",
-    "mocha": "8.3.2",
-    "nock": "^13.0.11"
+    "chai": "^4.3.7",
+    "debug": "4.3.4",
+    "mocha": "10.2.0",
+    "nock": "^13.3.1"
   },
   "dependencies": {
-    "@tryghost/errors": "^0.2.9",
-    "ghost-storage-base": "0.0.5",
+    "@tryghost/errors": "^1.2.25",
+    "ghost-storage-base": "1.0.0",
     "backblaze-b2": "github:zaxbux/backblaze-b2#76539bb002a71f0ee08cbead8339677fdd70541c"
   },
   "engines": {
